@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **sean-yang-thrasio/sean-yang-thrasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Index
+
+| Repo | Description | Scope |
+|---|---|---|
+| index | Master Data Management Documents and Archive | Private | 
+| google-sheet-data-consolidation | Data consolidation from multiple google sheets | Private | 
+| sandbox | Repository for one-off/ad-hoc coding projects | Private |
+| sku-request-processor | Automatic ticket processor for SKU requests. | Private |
+| sku-update-request-ticketer | MDM - SKU Update Request Ticketer | Private-Obsolete |
+
+
+## Misc
 Personal Github: [Warm Frog]()
