@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Personal Github: [Warm Frog](https://github.com/toadishfrog69420)
+Personal Github: [Warm Frog]
