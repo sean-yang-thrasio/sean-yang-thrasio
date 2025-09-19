@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 | sku-request-processor | Automatic ticket processor for SKU requests. | Private |
 | sku-update-request-ticketer | MDM - SKU Update Request Ticketer | Private-Obsolete |
 
-
-## Misc
-Personal Github: [Warm Frog]()
